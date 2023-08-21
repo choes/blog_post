@@ -25,7 +25,7 @@ public:
 ```
 毫无疑问，在n非常大时堆栈溢出了。
 
-![stack overflow](实现pow(x,n)/stack_overflow.png)
+![stack overflow](https://github.com/choes/blog_post/blob/master/%E5%AE%9E%E7%8E%B0pow(x%2Cn)/stack_overflow.png?raw=true)
 
 2. 优化递归次数
 
@@ -60,4 +60,4 @@ public:
     }
 };
 ```
- ![减少递归次数](实现pow(x,n)/recuce_recursives.png)
+ ![减少递归次数](https://github.com/choes/blog_post/blob/master/%E5%AE%9E%E7%8E%B0pow(x%2Cn)/recuce_recursives.png?raw=true)
